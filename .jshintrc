@@ -1,0 +1,15 @@
+{
+  "esnext":true,
+  "asi":true,
+  "globalstrict":true,
+  "freeze":true,
+  "futurehostile":true,
+  "nonew":true,
+  "nonbsp":true,
+  "globals": {
+    "require":false,
+    "module":false,
+    "process":false,
+    "console":false
+  }
+}
