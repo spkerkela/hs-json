@@ -1,1 +1,1 @@
-==Testing Hearthstone json api==
+# Testing Hearthstone json api
