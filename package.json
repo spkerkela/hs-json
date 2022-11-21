@@ -5,7 +5,7 @@
   "main": "app.js",
   "dependencies": {
     "babel": "^5.6.14",
-    "baconjs": "^0.7.70",
+    "baconjs": "^3.0.0",
     "lodash": "^4.17.19",
     "request": "^2.58.0"
   },
